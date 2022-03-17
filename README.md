@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ❤️ I'm an OIer in CHN, learning C++ and interested in Javascript & CSS.  
+- 🍥 Currently concentrating on competitive programming.
+
+> Let life be beautiful like summer flowers and death like autumn leaves.
