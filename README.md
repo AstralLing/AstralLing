@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - ⭐ USACO Platinum.
 
 > Let life be beautiful like summer flowers and death like autumn leaves.
+
+![](https://github.com/AstralLing/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/AstralLing/github-stats/blob/master/generated/languages.svg)
