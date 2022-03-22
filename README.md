@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ I'm an OIer in CHN, learning C++ and interested in Javascript & CSS.  
+- ❤️ I'm an OIer in CHN, learning C++ and interested in Javascript & CSS.
 - 🍥 Currently concentrating on competitive programming.
-- ⭐ USACO Platinum
+- ⭐ USACO Platinum.
 
 > Let life be beautiful like summer flowers and death like autumn leaves.
