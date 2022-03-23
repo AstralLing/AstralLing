@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 ![](https://github.com/AstralLing/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/AstralLing/github-stats/blob/master/generated/languages.svg)
+
+test vscode github extension
