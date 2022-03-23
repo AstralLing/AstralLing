@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![](https://github.com/AstralLing/github-stats/blob/master/generated/languages.svg)
 
 <This is a simple modification>
+<Another>
