@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ I'm an OIer in CHN, learning C++ and interested in Javascript & CSS.
-- 🍥 Currently concentrating on competitive programming.
-- ⭐ USACO Platinum, AFOIer.
+- ❤️ I'm an OIer in CHN, learning C++ and interested in JavaScript.
+- 🍥 Preparing for university entrance exam.
+- ⭐ USACO Platinum.
 
 > Always fall short of the goal. Maybe this is just the irony of fate.
 
